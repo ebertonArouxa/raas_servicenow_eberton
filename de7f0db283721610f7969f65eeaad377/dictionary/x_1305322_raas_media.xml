@@ -16,9 +16,9 @@
         <element label="Synopsis" max_length="4000" name="synopsis" type="string"/>
         <element display="true" label="Title" max_length="250" name="title" type="string"/>
         <element default="0" label="Average Rating" max_length="255" name="average_rating" type="float"/>
-        <element label="Website" max_length="40" name="website" type="url"/>
+        <element label="Website" max_length="1000" name="website" type="url"/>
         <element label="Production" max_length="250" name="production" type="string"/>
-        <element label="Poster" max_length="40" name="poster" type="url"/>
+        <element label="Poster" max_length="1000" name="poster" type="url"/>
         <element default="0" label="Metascore" max_length="40" name="metascore" type="integer"/>
         <element label="Writers" max_length="4000" name="writers" type="string"/>
         <element default="0" label="IMDB Rating" max_length="40" name="imdb_rating" type="float"/>
