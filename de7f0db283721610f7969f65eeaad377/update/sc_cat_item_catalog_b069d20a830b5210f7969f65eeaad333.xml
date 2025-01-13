@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Media Suggestion ">d288524a830b5210f7969f65eeaad333</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-13 20:05:12</sys_created_on>
+        <sys_id>b069d20a830b5210f7969f65eeaad333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Media Suggestion </sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b069d20a830b5210f7969f65eeaad333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-13 20:05:12</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
