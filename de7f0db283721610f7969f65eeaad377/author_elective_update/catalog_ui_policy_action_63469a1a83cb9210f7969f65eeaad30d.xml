@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Media Suggestion ">d288524a830b5210f7969f65eeaad333</catalog_item>
+        <catalog_variable>IO:ae5b5a0e830b5210f7969f65eeaad3b4</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 14:30:39</sys_created_on>
+        <sys_id>63469a1a83cb9210f7969f65eeaad30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>release_year</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_63469a1a83cb9210f7969f65eeaad30d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 14:30:39</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Released year with four number">a2e5921a83cb9210f7969f65eeaad34b</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>release_year</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=63469a1a83cb9210f7969f65eeaad30d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>catalog_ui_policy_action_63469a1a83cb9210f7969f65eeaad30d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Media Suggestion ">d288524a830b5210f7969f65eeaad333</catalog_item><catalog_variable>IO:ae5b5a0e830b5210f7969f65eeaad3b4</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-14 14:30:39</sys_created_on><sys_id>63469a1a83cb9210f7969f65eeaad30d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>release_year</sys_name><sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package><sys_policy/><sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope><sys_update_name>catalog_ui_policy_action_63469a1a83cb9210f7969f65eeaad30d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-14 14:30:39</sys_updated_on><table/><ui_policy display_value="Released year with four number">a2e5921a83cb9210f7969f65eeaad34b</ui_policy><value/><value_action>ignore</value_action><variable>release_year</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=63469a1a83cb9210f7969f65eeaad30d"/></record_update>]]></payload>
+        <payload_hash>1469636197</payload_hash>
+        <record_name>release_year</record_name>
+        <reverted_from/>
+        <source>28c9f83783721210f7969f65eeaad3f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 14:30:39</sys_created_on>
+        <sys_id>0e66da1a83cb9210f7969f65eeaad3f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194653946700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 14:30:39</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>0266da1a41cb9210f21a3adcd673b6f0</update_guid>
+        <update_guid_history>0266da1a41cb9210f21a3adcd673b6f0:1469636197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="release_year">9096de1a83cb9210f7969f65eeaad3fb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 14:31:21</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>37881296d7234add9d66b8f24b54f041</sys_id>
+        <sys_metadata>63469a1a83cb9210f7969f65eeaad30d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>release_year</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_scope_delete display_value="">1d723fc6fa7e443c8d6c191f138b2810</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_63469a1a83cb9210f7969f65eeaad30d</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_63469a1a83cb9210f7969f65eeaad30d">0e66da1a83cb9210f7969f65eeaad3f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 14:31:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
