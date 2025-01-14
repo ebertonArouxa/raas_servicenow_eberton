@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="DELETE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 17:01:13</sys_created_on>
+        <sys_id>a7d8ba12838f9210f7969f65eeaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_update_name>sys_ui_formatter_a7d8ba12838f9210f7969f65eeaad3e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 17:01:13</sys_updated_on>
+        <table>x_1305322_raas_media</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>sys_ui_formatter_a7d8ba12838f9210f7969f65eeaad3e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter"><sys_ui_formatter action="INSERT_OR_UPDATE"><active>true</active><angular_module/><formatter>process_flow.xml</formatter><name>Process Flow</name><seismic_component/><sys_class_name>sys_ui_formatter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-14 17:01:13</sys_created_on><sys_id>a7d8ba12838f9210f7969f65eeaad3e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Process Flow</sys_name><sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package><sys_policy/><sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope><sys_update_name>sys_ui_formatter_a7d8ba12838f9210f7969f65eeaad3e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-14 17:01:13</sys_updated_on><table>x_1305322_raas_media</table><type>formatter</type></sys_ui_formatter></record_update>]]></payload>
+        <payload_hash>-503311745</payload_hash>
+        <record_name>Process Flow</record_name>
+        <reverted_from/>
+        <source>28c9f83783721210f7969f65eeaad3f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 17:01:13</sys_created_on>
+        <sys_id>ebd8ba12838f9210f7969f65eeaad3e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19465c31dbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 17:01:13</sys_updated_on>
+        <type>UI Formatter</type>
+        <update_guid>efd8ba120d8f9210fff88fdcc1a980e6</update_guid>
+        <update_guid_history>efd8ba120d8f9210fff88fdcc1a980e6:-503311745</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 17:11:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_formatter">sys_ui_formatter</sys_db_object>
+        <sys_id>4c912d1d9bde4c74bf27f810a13ccda9</sys_id>
+        <sys_metadata>a7d8ba12838f9210f7969f65eeaad3e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_parent display_value="Media">cb0a6db283f21610f7969f65eeaad313</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_scope_delete display_value="">1d723fc6fa7e443c8d6c191f138b2810</sys_scope_delete>
+        <sys_update_name>sys_ui_formatter_a7d8ba12838f9210f7969f65eeaad3e5</sys_update_name>
+        <sys_update_version display_value="sys_ui_formatter_a7d8ba12838f9210f7969f65eeaad3e5">ebd8ba12838f9210f7969f65eeaad3e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 17:11:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

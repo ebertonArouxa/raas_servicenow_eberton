@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="DELETE">
+        <active>true</active>
+        <condition table="x_1305322_raas_media">integration_state=1^EQ<item display_value="Starting" endquery="false" field="integration_state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Starting</label>
+        <name>Starting</name>
+        <order>100</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 17:01:13</sys_created_on>
+        <sys_id>2558ba52838f9210f7969f65eeaad382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Starting</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_update_name>sys_process_flow_2558ba52838f9210f7969f65eeaad382</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 17:01:13</sys_updated_on>
+        <table>x_1305322_raas_media</table>
+    </sys_process_flow>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>sys_process_flow_2558ba52838f9210f7969f65eeaad382</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow"><sys_process_flow action="INSERT_OR_UPDATE"><active>true</active><condition table="x_1305322_raas_media">integration_state=1^EQ<item display_value="Starting" endquery="false" field="integration_state" goto="false" newquery="false" operator="=" or="false" value="1"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description/><label>Starting</label><name>Starting</name><order>100</order><sys_class_name>sys_process_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-14 17:01:13</sys_created_on><sys_id>2558ba52838f9210f7969f65eeaad382</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Starting</sys_name><sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package><sys_policy/><sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope><sys_update_name>sys_process_flow_2558ba52838f9210f7969f65eeaad382</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-14 17:01:13</sys_updated_on><table>x_1305322_raas_media</table></sys_process_flow></record_update>]]></payload>
+        <payload_hash>-1313299561</payload_hash>
+        <record_name>Starting</record_name>
+        <reverted_from/>
+        <source>28c9f83783721210f7969f65eeaad3f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 17:01:13</sys_created_on>
+        <sys_id>afd87692838f9210f7969f65eeaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19465c31dda0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 17:01:13</sys_updated_on>
+        <type>Flow Formatter</type>
+        <update_guid>6fd8ba127b8f921075a22135852499e8</update_guid>
+        <update_guid_history>6fd8ba127b8f921075a22135852499e8:-1313299561</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 18:07:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_process_flow">sys_process_flow</sys_db_object>
+        <sys_id>166509cd8fa84e3f832a674bb7631599</sys_id>
+        <sys_metadata>2558ba52838f9210f7969f65eeaad382</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Starting</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_scope_delete display_value="">1d723fc6fa7e443c8d6c191f138b2810</sys_scope_delete>
+        <sys_update_name>sys_process_flow_2558ba52838f9210f7969f65eeaad382</sys_update_name>
+        <sys_update_version display_value="sys_process_flow_2558ba52838f9210f7969f65eeaad382">afd87692838f9210f7969f65eeaad37c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 18:07:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
