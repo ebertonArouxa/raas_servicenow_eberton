@@ -6,7 +6,7 @@
         <applies_to/>
         <condition/>
         <decision_type>allow</decision_type>
-        <description>Allow create for records in x_1305322_raas_m2m_actor_media, for users with role x_1305322_raas.administrator.</description>
+        <description/>
         <local_or_existing>Local</local_or_existing>
         <name>x_1305322_raas_m2m_actor_media</name>
         <operation display_value="create">create</operation>
@@ -14,16 +14,16 @@
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-01-14 21:18:02</sys_created_on>
-        <sys_id>99a3f71e8383d210f7969f65eeaad31e</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_created_on>2025-01-15 13:22:26</sys_created_on>
+        <sys_id>5460d32a83c31610f7969f65eeaad313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_1305322_raas_m2m_actor_media</sys_name>
         <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
         <sys_policy/>
         <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
-        <sys_update_name>sys_security_acl_99a3f71e8383d210f7969f65eeaad31e</sys_update_name>
+        <sys_update_name>sys_security_acl_5460d32a83c31610f7969f65eeaad313</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-14 23:34:41</sys_updated_on>
+        <sys_updated_on>2025-01-15 13:22:26</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

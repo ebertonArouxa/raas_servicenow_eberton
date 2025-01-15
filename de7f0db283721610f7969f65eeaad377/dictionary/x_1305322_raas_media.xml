@@ -31,12 +31,12 @@
                 <element inactive_on_update="false" label="Integration Success" sequence="400" value="3"/>
                 <element inactive_on_update="false" label="Starting" sequence="100" value="1"/>
                 <element inactive_on_update="false" label="Media not Found" sequence="500" value="7"/>
-                <element inactive_on_update="false" label="Media already exists" sequence="600" value="8"/>
             </choice>
         </element>
         <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Draft" sequence="100" value="1"/>
+                <element inactive_on_update="false" label="Duplicate" sequence="150" value="7"/>
                 <element inactive_on_update="false" label="Completed" sequence="200" value="3"/>
             </choice>
         </element>

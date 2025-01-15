@@ -5,25 +5,25 @@
         <advanced>false</advanced>
         <applies_to/>
         <condition/>
-        <decision_type>allow</decision_type>
-        <description>Allow write for records in x_1305322_raas_m2m_actor_media, for users with role x_1305322_raas.administrator.</description>
+        <decision_type>deny</decision_type>
+        <description>Deny list_edit for records in x_1305322_raas_media, unless users have the role x_1305322_raas.administrator.</description>
         <local_or_existing>Local</local_or_existing>
         <name>x_1305322_raas_m2m_actor_media</name>
-        <operation display_value="write">write</operation>
+        <operation display_value="list_edit">54f535270a0a0b8c007c67009ab2bdc0</operation>
         <script/>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-01-14 21:17:45</sys_created_on>
-        <sys_id>1993375e8383d210f7969f65eeaad348</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_created_on>2025-01-15 13:22:03</sys_created_on>
+        <sys_id>3a4097e683c31610f7969f65eeaad3fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_1305322_raas_m2m_actor_media</sys_name>
         <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
         <sys_policy/>
         <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
-        <sys_update_name>sys_security_acl_1993375e8383d210f7969f65eeaad348</sys_update_name>
+        <sys_update_name>sys_security_acl_3a4097e683c31610f7969f65eeaad3fe</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-14 23:34:22</sys_updated_on>
+        <sys_updated_on>2025-01-15 13:22:03</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

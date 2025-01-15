@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 22:22:56</sys_created_on>
+        <sys_id>ab6240628307d210f7969f65eeaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1305322_raas_m2m_actor_media.x_1305322_raas.administrator</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_security_acl display_value="x_1305322_raas_m2m_actor_media">1993375e8383d210f7969f65eeaad348</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ab6240628307d210f7969f65eeaad364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 22:22:56</sys_updated_on>
+        <sys_user_role display_value="x_1305322_raas.administrator" name="x_1305322_raas.administrator">527f0db283721610f7969f65eeaad3ad</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>sys_security_acl_role_ab6240628307d210f7969f65eeaad364</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-14 22:22:56</sys_created_on><sys_id>ab6240628307d210f7969f65eeaad364</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1305322_raas_m2m_actor_media.x_1305322_raas.administrator</sys_name><sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package><sys_policy/><sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope><sys_security_acl display_value="x_1305322_raas_m2m_actor_media">1993375e8383d210f7969f65eeaad348</sys_security_acl><sys_update_name>sys_security_acl_role_ab6240628307d210f7969f65eeaad364</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-14 22:22:56</sys_updated_on><sys_user_role display_value="x_1305322_raas.administrator" name="x_1305322_raas.administrator">527f0db283721610f7969f65eeaad3ad</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1223620485</payload_hash>
+        <record_name>x_1305322_raas_m2m_actor_media.x_1305322_raas.administrator</record_name>
+        <reverted_from/>
+        <source>28c9f83783721210f7969f65eeaad3f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 22:22:56</sys_created_on>
+        <sys_id>408248628307d210f7969f65eeaad3fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19466e9a6f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 22:22:56</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>44824862bb07d210a092677e9d60aefa</update_guid>
+        <update_guid_history>44824862bb07d210a092677e9d60aefa:1223620485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1305322_raas_m2m_actor_media.x_1305322_raas.administrator">d6ee8b6683c31610f7969f65eeaad3ee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-15 13:16:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>11be44529b804355869f47a609214c29</sys_id>
+        <sys_metadata>ab6240628307d210f7969f65eeaad364</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1305322_raas_m2m_actor_media.x_1305322_raas.administrator</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_scope_delete display_value="">1d723fc6fa7e443c8d6c191f138b2810</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ab6240628307d210f7969f65eeaad364</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ab6240628307d210f7969f65eeaad364">408248628307d210f7969f65eeaad3fb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-15 13:16:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
