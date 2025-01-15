@@ -2,7 +2,7 @@
     <sys_ui_list_control action="INSERT_OR_UPDATE">
         <columns_condition/>
         <disable_nlq>false</disable_nlq>
-        <edit_condition><![CDATA[if (parent.getValue("state").toString() == "3" || parent.getValue("integration_state").toString() == "7" || parent.getValue("integration_state").toString() == "4") {
+        <edit_condition><![CDATA[if (parent.getValue("state").toString() == "3" || parent.getValue("integration_state").toString() == "7" || parent.getValue("integration_state").toString() == "4" || parent.getValue("state").toString() == "7") {
 	answer = true;
 }]]></edit_condition>
         <edit_default_filter/>
@@ -18,9 +18,7 @@
         <list_edit_ref_qual_tag/>
         <list_edit_type/>
         <name>x_1305322_raas_media</name>
-        <new_condition><![CDATA[if (parent.getValue("state").toString() == "3" || parent.getValue("integration_state").toString() == "7" || parent.getValue("integration_state").toString() == "4") {
-	answer = true;
-}]]></new_condition>
+        <new_condition/>
         <new_roles/>
         <omit_columns_if_empty>false</omit_columns_if_empty>
         <omit_count>false</omit_count>
@@ -39,7 +37,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7fdbcf6283c31610f7969f65eeaad3ac</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>x_1305322_raas_media</sys_name>
         <sys_overrides display_value="">global</sys_overrides>
         <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
@@ -47,7 +45,7 @@
         <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
         <sys_update_name>sys_ui_list_control_7fdbcf6283c31610f7969f65eeaad3ac</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-15 14:38:17</sys_updated_on>
+        <sys_updated_on>2025-01-15 19:13:19</sys_updated_on>
     </sys_ui_list_control>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
         <id>7fdbcf6283c31610f7969f65eeaad3ac</id>
