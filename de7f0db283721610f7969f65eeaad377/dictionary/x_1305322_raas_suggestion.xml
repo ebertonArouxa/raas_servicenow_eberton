@@ -3,9 +3,9 @@
         <element label="Media" max_length="32" name="media" reference="x_1305322_raas_media" type="reference"/>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Series" sequence="1" value="series"/>
-                <element inactive="true" inactive_on_update="true" label="Episode" sequence="2" value="episode"/>
-                <element inactive_on_update="false" label="Movie" sequence="0" value="movie"/>
+                <element inactive_on_update="false" label="Series" sequence="2" value="series"/>
+                <element inactive="true" inactive_on_update="true" label="Episode" sequence="0" value="episode"/>
+                <element inactive_on_update="false" label="Movie" sequence="1" value="movie"/>
             </choice>
         </element>
         <element label="Reproval Reason" max_length="4000" name="reproval_reason" type="string"/>
