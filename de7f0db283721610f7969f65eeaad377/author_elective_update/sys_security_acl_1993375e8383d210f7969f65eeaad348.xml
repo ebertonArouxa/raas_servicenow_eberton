@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Allow write for records in x_1305322_raas_m2m_actor_media, for users with role x_1305322_raas.administrator.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1305322_raas_m2m_actor_media</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 21:17:45</sys_created_on>
+        <sys_id>1993375e8383d210f7969f65eeaad348</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>x_1305322_raas_m2m_actor_media</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_update_name>sys_security_acl_1993375e8383d210f7969f65eeaad348</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 23:34:22</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</application>
+        <file_path/>
+        <instance_id>61f7defadb3d3190ae4c9027c596193b</instance_id>
+        <instance_name>dev185237</instance_name>
+        <name>sys_security_acl_1993375e8383d210f7969f65eeaad348</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description>Allow write for records in x_1305322_raas_m2m_actor_media, for users with role x_1305322_raas.administrator.</description><local_or_existing>Local</local_or_existing><name>x_1305322_raas_m2m_actor_media</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-14 21:17:45</sys_created_on><sys_id>1993375e8383d210f7969f65eeaad348</sys_id><sys_mod_count>19</sys_mod_count><sys_name>x_1305322_raas_m2m_actor_media</sys_name><sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package><sys_policy/><sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope><sys_update_name>sys_security_acl_1993375e8383d210f7969f65eeaad348</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-14 23:34:22</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1948056006</payload_hash>
+        <record_name>x_1305322_raas_m2m_actor_media</record_name>
+        <reverted_from/>
+        <source>28c9f83783721210f7969f65eeaad3f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 23:34:22</sys_created_on>
+        <sys_id>a2d218e68347d210f7969f65eeaad376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194672b0e540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 23:34:22</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>2ad218e65f47d210327e37e260a88975</update_guid>
+        <update_guid_history>2ad218e65f47d210327e37e260a88975:1948056006,3ae014266647d210f3d898f5f8325e61:1574434046,1f3ac4ea0207d210061bf18b2bde0b4c:1948056006,749980ea6907d210896353a9788f597a:753832341,a65984aa9507d210765cea96bd44dd57:-1776884142,a498886a2807d210fa624f5ee52c8cf6:753832341,7968846aaa07d210a32832ef776bb7a4:1948056006,3a37c4e66e07d210e9d8c3fd4d9749b5:1574434046,d5248ce2ed07d210774c6e91e920cff1:-449538172,47a24c628307d2100e8f5ff4f5b2ed9b:1948056006,0561c4eee7c3d2109261f51183a5f7af:1574434046,38d048ae7bc3d210884d32458f19f76b:-449538172,156f7fdae9c3d210074ce6b428cca0ad:1948056006,a35eb3da8cc3d210edbe72d2d5a04dd9:1574434046,5f1e7f9a77c3d210c5e908696af7590d:753832341,cecd779a45c3d2100b302ec35b980af3:-1696251798,945c771a9bc3d21096ff3c88030661cb:-1764920086,92bbbbd60ac3d21015c4c9f218429515:-602389164,49fa7b96d3c3d210b94169b3e771768e:753832341,d193375e1083d210f98903b36fc0774f:-960599598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-15 13:16:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>3c42b529c43a4474b110a14439c406e4</sys_id>
+        <sys_metadata>1993375e8383d210f7969f65eeaad348</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1305322_raas_m2m_actor_media</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_parent display_value="x_1305322_raas_m2m_actor_media">059fba3a837a1610f7969f65eeaad3ed</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_scope_delete display_value="">1d723fc6fa7e443c8d6c191f138b2810</sys_scope_delete>
+        <sys_update_name>sys_security_acl_1993375e8383d210f7969f65eeaad348</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_1993375e8383d210f7969f65eeaad348">a2d218e68347d210f7969f65eeaad376</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-15 13:16:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Media Review">cc773173833e1210f7969f65eeaad3e5</catalog_item>
+        <catalog_variable>IO:6ea1823f833e1210f7969f65eeaad3e4</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-07 13:42:28</sys_created_on>
+        <sys_id>baa78e4c83cf5210f7969f65eeaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rating</sys_name>
+        <sys_package display_value="RaaS - Eberton" source="x_1305322_raas">de7f0db283721610f7969f65eeaad377</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RaaS - Eberton">de7f0db283721610f7969f65eeaad377</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_baa78e4c83cf5210f7969f65eeaad364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-07 13:42:28</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Mandatory fields">82f68acc83cf5210f7969f65eeaad3ff</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>rating</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=baa78e4c83cf5210f7969f65eeaad364"/>
+</record_update>
